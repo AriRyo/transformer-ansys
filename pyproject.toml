@@ -31,6 +31,8 @@ torchdata = "^0.8.0"
 spacy = "^3.7.6"
 torchtext = "^0.18.0"
 scikit-learn = "^1.5.2"
+joblib = "^1.4.2"
+umap-learn = "^0.5.7"
 
 
 [tool.poetry.group.dev.dependencies]
